@@ -1,0 +1,39 @@
+{
+  "client_msg_id": "a71768d2-e472-45b0-a2ef-b9db14e922f3",
+  "type": "message",
+  "text": "test blah blah what if I *bold <!subteam^SC1PSHDR9|@rd> and stuff* and maybe also <@UK574SX6U> or <@U022H9N7YQL> blah blah blah",
+  "user": "U022H9N7YQL",
+  "ts": "1629835396.011200",
+  "team": "T04S6SNC4",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "MNPG",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {"type": "text", "text": "test blah blah what if I "},
+            {"type": "text", "text": "bold ", "style": {"bold": true}},
+            {
+              "type": "usergroup",
+              "usergroup_id": "SC1PSHDR9",
+              "style": {"bold": true}
+            },
+            {"type": "text", "text": " and stuff", "style": {"bold": true}},
+            {"type": "text", "text": " and maybe also "},
+            {"type": "user", "user_id": "UK574SX6U"},
+            {"type": "text", "text": " or "},
+            {"type": "user", "user_id": "U022H9N7YQL"},
+            {"type": "text", "text": " blah blah blah"},
+            {
+              "type": "channel",
+              "channel_id": "CCL2E74SW",
+              "style": {"bold": true}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

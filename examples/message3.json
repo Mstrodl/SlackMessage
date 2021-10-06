@@ -1,0 +1,28 @@
+{
+  "client_msg_id": "3ba44a17-0c9c-4931-9e81-57f816edf95f",
+  "type": "message",
+  "text": "what about a <https://google.com|masked link>?",
+  "user": "U022H9N7YQL",
+  "ts": "1629834426.009900",
+  "team": "T04S6SNC4",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "1si",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {"type": "text", "text": "what about a "},
+            {
+              "type": "link",
+              "url": "https://google.com",
+              "text": "masked link"
+            },
+            {"type": "text", "text": "?"}
+          ]
+        }
+      ]
+    }
+  ]
+}

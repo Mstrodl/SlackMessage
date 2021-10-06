@@ -1,0 +1,32 @@
+{
+  "client_msg_id": "ef17262d-ec27-4023-9e65-597357bdef08",
+  "type": "message",
+  "text": "what *if I <!channel> do* and then the because *the <!here> and stuff* and the *@everyone* and a",
+  "user": "U50BMCQDB",
+  "ts": "1629908558.001000",
+  "team": "T50V3D8G7",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "Yrm",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {"type": "text", "text": "what "},
+            {"type": "text", "text": "if I ", "style": {"bold": true}},
+            {"type": "broadcast", "range": "channel", "style": {"bold": true}},
+            {"type": "text", "text": " do", "style": {"bold": true}},
+            {"type": "text", "text": " and then the because "},
+            {"type": "text", "text": "the ", "style": {"bold": true}},
+            {"type": "broadcast", "range": "here", "style": {"bold": true}},
+            {"type": "text", "text": " and stuff", "style": {"bold": true}},
+            {"type": "text", "text": " and the "},
+            {"type": "text", "text": "@everyone", "style": {"bold": true}},
+            {"type": "text", "text": " and a"}
+          ]
+        }
+      ]
+    }
+  ]
+}

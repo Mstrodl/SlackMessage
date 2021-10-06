@@ -1,0 +1,44 @@
+{
+  "client_msg_id": "5deeea6d-26af-4003-bac7-797f720e47c9",
+  "type": "message",
+  "text": "*what if I put rich text with a* :galaxybrain: *and some extra _formatting_ inside! ~haha~....*",
+  "user": "U022H9N7YQL",
+  "ts": "1629722853.007500",
+  "team": "T04S6SNC4",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "R9w",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {
+              "type": "text",
+              "text": "what if I put rich text with a ",
+              "style": {"bold": true}
+            },
+            {"type": "emoji", "name": "galaxybrain", "style": {"bold": true}},
+            {
+              "type": "text",
+              "text": " and some extra ",
+              "style": {"bold": true}
+            },
+            {
+              "type": "text",
+              "text": "formatting",
+              "style": {"bold": true, "italic": true}
+            },
+            {"type": "text", "text": " inside! ", "style": {"bold": true}},
+            {
+              "type": "text",
+              "text": "haha",
+              "style": {"bold": true, "strike": true}
+            },
+            {"type": "text", "text": "....", "style": {"bold": true}}
+          ]
+        }
+      ]
+    }
+  ]
+}

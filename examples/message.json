@@ -1,0 +1,33 @@
+{
+  "client_msg_id": "9901d2a2-2e9e-45f7-a7c0-d2ae38c62dcd",
+  "type": "message",
+  "text": "who out here testing shit :thinking_face: :galaxybrain: now that I have *tested bold* and _*lots of markdown*_",
+  "user": "U022H9N7YQL",
+  "ts": "1629550273.004700",
+  "team": "T04S6SNC4",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "PY2N",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [
+            {"type": "text", "text": "who out here testing shit "},
+            {"type": "emoji", "name": "thinking_face"},
+            {"type": "text", "text": " "},
+            {"type": "emoji", "name": "galaxybrain"},
+            {"type": "text", "text": " now that I have "},
+            {"type": "text", "text": "tested bold", "style": {"bold": true}},
+            {"type": "text", "text": " and "},
+            {
+              "type": "text",
+              "text": "lots of markdown",
+              "style": {"bold": true, "italic": true}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

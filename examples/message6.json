@@ -1,0 +1,56 @@
+{
+  "client_msg_id": "d7775ecf-b360-44e3-b142-7b97b11db196",
+  "type": "message",
+  "text": "asdf\n\u2022 a\n\u2022 b\n\u2022 *c*\n\u2022 lol *c* adfh :thinking_face: \n\u2022 w_a_t",
+  "user": "U022H9N7YQL",
+  "ts": "1630005671.000600",
+  "team": "T04S6SNC4",
+  "blocks": [
+    {
+      "type": "rich_text",
+      "block_id": "3fKrh",
+      "elements": [
+        {
+          "type": "rich_text_section",
+          "elements": [{"type": "text", "text": "asdf\n"}]
+        },
+        {
+          "type": "rich_text_list",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [{"type": "text", "text": "a"}]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [{"type": "text", "text": "b"}]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {"type": "text", "text": "c", "style": {"bold": true}}
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {"type": "text", "text": "lol "},
+                {"type": "text", "text": "c", "style": {"bold": true}},
+                {"type": "text", "text": " adfh "},
+                {"type": "emoji", "name": "thinking_face"},
+                {"type": "text", "text": " "}
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [{"type": "text", "text": "w_a_t"}]
+            }
+          ],
+          "style": "bullet",
+          "indent": 0,
+          "border": 0
+        }
+      ]
+    }
+  ]
+}
